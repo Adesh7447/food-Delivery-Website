@@ -69,7 +69,7 @@
 }
 #home::before{
     content: "";
-    background: url('images/background1.jpg' ) no-repeat center center/cover;
+    background: url('background1.jpg' ) no-repeat center center/cover;
     position: absolute;
     top: 0;
     height: 52%;
@@ -136,7 +136,7 @@
 }
 .clients::before{
     content: "";
-    background: url('images/background2.jpg' ) no-repeat center center/cover;
+    background: url('background2.jpg' ) no-repeat center center/cover;
     position: absolute;
     /* top: 0; */
     height: 54%;
@@ -149,7 +149,7 @@
 
 #contact::before{
     content: "";
-    background: url('images/background1.jpg') no-repeat center center/cover;
+    background: url('background1.jpg') no-repeat center center/cover;
     position: absolute;
     
     height: 79%;
